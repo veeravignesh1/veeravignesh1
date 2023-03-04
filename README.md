@@ -16,9 +16,8 @@ As a lifelong learner, I'm committed to sharing my knowledge with the community 
 
 <p align='left'>
   <h2> Social </h2>
-  <a href="https:/veeravignesh.dev"><img src="https://img.shields.io/badge/Website-Veera%20Vignesh-blue?style=for-the-badge" alt="Website"></a>
+  <a href="https://veeravignesh.dev"><img src="https://img.shields.io/badge/Website-Veera%20Vignesh-blue?style=for-the-badge" alt="Website"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/veeravignesh1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
   
 </p>
 <!-- 
