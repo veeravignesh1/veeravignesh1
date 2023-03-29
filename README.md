@@ -9,7 +9,6 @@ As a lifelong learner, I'm committed to sharing my knowledge with the community 
 - 🔭 I’m currently working on: Setting up a blog with Quart
 - 🌱 I’m currently learning: DVC, Dagshub
 - 👯 I’m looking to collaborate on: Audio ML Kaggle Competitions
-- 🤔 I’m looking for help with: 🤞
 - 💬 Ask me about: Audio ML, NLP, Career advice for Non-CS
 - 📫 How to reach me: kveeravignesh2@gmail.com
 
