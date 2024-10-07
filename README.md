@@ -5,12 +5,6 @@ I specialize in building and deploying scalable solutions in both on-premises an
 
 As a lifelong learner, I'm committed to sharing my knowledge with the community and learning from others.
 
-- 🌏 I write at: [veeravignesh.dev](https://veeravignesh.dev/)
-- 🔭 I’m currently working on: Setting up a blog with Quart
-- 🌱 I’m currently learning: DVC, Dagshub
-- 👯 I’m looking to collaborate on: Audio ML Kaggle Competitions
-- 💬 Ask me about: Audio ML, NLP, Career advice for Non-CS
-- 📫 How to reach me: kveeravignesh2@gmail.com
 
 
 <p align='left'>
